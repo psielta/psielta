@@ -2,7 +2,6 @@
 
   <img 
     src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
-    width="260"
   />
 
 </p>
