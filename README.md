@@ -1,10 +1,36 @@
 <p align="center">
+  <svg width="260" height="320" viewBox="0 0 260 320" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Aqui é o formato oval -->
+      <clipPath id="newtonOval">
+        <ellipse cx="130" cy="160" rx="110" ry="140"/>
+      </clipPath>
+    </defs>
 
-  <img 
-    src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
-  />
+    <!-- Borda em volta do "retrato" -->
+    <ellipse 
+      cx="130" 
+      cy="160" 
+      rx="113" 
+      ry="143" 
+      fill="none" 
+      stroke="#444" 
+      stroke-width="4"
+    />
 
+    <!-- Imagem cortada no formato oval -->
+    <image 
+      href="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
+      x="0" 
+      y="0" 
+      width="260" 
+      height="320" 
+      clip-path="url(#newtonOval)" 
+      preserveAspectRatio="xMidYMid slice"
+    />
+  </svg>
 </p>
+
 
 
 ###
