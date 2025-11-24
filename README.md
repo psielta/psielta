@@ -1,9 +1,10 @@
 <p align="center">
+
   <img 
-    src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
+    src="https://raw.githubusercontent.com/psielta/psielta/main/newton-oval.svg"
     width="260"
-    style="border-radius: 50% / 65%; border: 3px solid #444;"
   />
+
 </p>
 
 
