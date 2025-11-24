@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=psielta.psielta&"  />
-</div>
+<p align="center">
+  <img 
+    src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg" 
+    alt="Imagem" 
+    width="300"
+    style="border: 2px solid #555; border-radius: 8px;"
+  />
+</p>
 
 ###
 
