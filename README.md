@@ -1,7 +1,7 @@
 <p align="center">
 
   <img 
-    src="https://raw.githubusercontent.com/psielta/psielta/main/newton-oval.svg"
+    src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
     width="260"
   />
 
