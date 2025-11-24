@@ -1,41 +1,21 @@
 <p align="center">
-  <svg width="260" height="320" viewBox="0 0 260 320" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Aqui é o formato oval -->
-      <clipPath id="newtonOval">
-        <ellipse cx="130" cy="160" rx="110" ry="140"/>
-      </clipPath>
-    </defs>
-
-    <!-- Borda em volta do "retrato" -->
-    <ellipse 
-      cx="130" 
-      cy="160" 
-      rx="113" 
-      ry="143" 
-      fill="none" 
-      stroke="#444" 
-      stroke-width="4"
-    />
-
-    <!-- Imagem cortada no formato oval -->
-    <image 
-      href="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
-      x="0" 
-      y="0" 
-      width="260" 
-      height="320" 
-      clip-path="url(#newtonOval)" 
-      preserveAspectRatio="xMidYMid slice"
-    />
-  </svg>
+  <img src="https://raw.githubusercontent.com/psielta/psielta/refs/heads/main/Sir_Isaac_Newton.jpg" width="200" />
 </p>
-
-
 
 ###
 
 <h6 align="center">“If I have seen further it is by standing on the shoulders of Giants.”<br>― Isaac Newton, The Correspondence of Isaac Newton: Volume 5, 1709–1713</h6>
+
+###
+
+<h3 align="left">✓ Portfolio</h3>
+
+<p align="center">
+  <a href="http://168.231.91.35:3001/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 ###
 
