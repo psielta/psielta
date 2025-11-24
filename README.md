@@ -1,11 +1,11 @@
 <p align="center">
   <img 
-    src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg" 
-    alt="Imagem" 
-    width="300"
-    style="border: 2px solid #555; border-radius: 8px;"
+    src="https://myhero.com/content/images/thumbs/0162467_sir-isaac-newton.jpeg"
+    width="260"
+    style="border-radius: 50% / 65%; border: 3px solid #444;"
   />
 </p>
+
 
 ###
 
