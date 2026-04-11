@@ -17,7 +17,7 @@
 <h3 align="left">✓ Portfolio</h3>
 
 <p align="center">
-  <a href="http://168.231.91.35:3001/" target="_blank">
+  <a href="https://mateussalgueiro.com.br" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
